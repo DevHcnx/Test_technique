@@ -3,7 +3,7 @@
 
 Nous venons de signer un nouveau contrat avec un client : une ONG.
  
-Cette ONG souhaite travailler avec nous dans le cadre du Don par SMS et possède un historique de DON qu’elle a exporté via la solution de l’ancien prestataire : un fichier CSV de presque 1 million de lignes.
+Cette ONG souhaite travailler avec nous dans le cadre du Don par SMS et possède un historique de DON qu’elle a exporté via la solution de l’ancien prestataire : un fichier CSV de presque 1 million de lignes. (Fichier présent dans le repository)
  
 Notre objectif est d’interconnecter cette ONG à notre plateforme et pour cela nous avons besoin que tu intègres sa « data » dans une base de données MySQL.
 
